@@ -1,18 +1,21 @@
-#
+# whu-beamer
 
-## 仓库主要内容
+武汉大学学位论文答辩 `beamer` 模版.
 
+## 开发背景
+
+以前传下来的旧模版有点古老，不管是中文处理还是宏包堆砌等问题，都不再适用，所以打算开发一个接口清晰的模版，分离格式和内容，让用户能够更专注于内容上。
 ## 参与贡献
 
 ### 仓库地址
-Github：https://github.com/xkwxdyy/foo
+Github：https://github.com/xkwxdyy/whu-beamer
 
-Gitee：https://gitee.com/xkwxdyy/foo
+Gitee：https://gitee.com/xkwxdyy/whu-beamer
 
 ### 提issues
 #### Github
-issues: https://github.com/xkwxdyy/foo/issues
+issues: https://github.com/xkwxdyy/whu-beamer/issues
 
 #### Gitee
-issues: https://gitee.com/xkwxdyy/foo/issues
+issues: https://gitee.com/xkwxdyy/whu-beamer/issues
 
