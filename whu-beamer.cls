@@ -117,11 +117,9 @@
 \RequirePackage { xeCJK }
 \RequirePackage { xeCJKfntef }
 \RequirePackage { lastpage }
-% \RequirePackage { enumitem } 
 \RequirePackage { biblatex }
 \RequirePackage { amsthm }
 \RequirePackage { thmtools }
-\RequirePackage { tikz }
 \RequirePackage { tikzpagenodes }
 
 
@@ -161,6 +159,10 @@
           }
       }
   }
+
+
+
+
 
 % 由于 mathtools 需要在 unicode-math 前载入，所以推迟载入 unicode-math
 \AtBeginOfPackageFile* { siunitx }
